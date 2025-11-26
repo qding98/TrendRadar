@@ -23,6 +23,8 @@ chatgpt
 openai
 sora
 
+Stray_Kids
+
 MIT
 Stanford
 CMU
